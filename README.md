@@ -1,6 +1,3 @@
-# Fatima-Khalid-Hassan-Alali
-Fatima Khalid Hassan Alali
-here i have created an app for my cool.
 #include <iostream>
 using namespace std;
 int main()
